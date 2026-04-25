@@ -6,7 +6,7 @@ An end-to-end data analysis project analyzing pizza sales performance using **My
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Dashboard]()
+![Pizza Sales Dashboard](https://github.com/shubhampandey75/Pizza-sales/blob/main/Screenshot%20(267).png)
 
 ---
 
@@ -141,10 +141,4 @@ FROM pizza_sales GROUP BY pizza_name ORDER BY SUM(quantity) DESC;
 4. Open `Pizza_Sales_Dashboard.xlsx` in **Microsoft Excel** to explore the dashboard
 
 ---
-
-## 📂 Dataset
-
-- **Source:** [Kaggle – Pizza Sales Dataset](https://www.kaggle.com/) *(update with actual link)*
-- **Key Columns:** `order_id`, `order_date`, `order_time`, `pizza_name`, `pizza_category`, `pizza_size`, `quantity`, `total_price`
-
 ---
