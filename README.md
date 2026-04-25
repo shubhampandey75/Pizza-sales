@@ -6,7 +6,7 @@ An end-to-end data analysis project analyzing pizza sales performance using **My
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard.png)
+![Pizza Sales Dashboard]()
 
 ---
 
